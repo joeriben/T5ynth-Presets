@@ -1,0 +1,199 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-17T13:45:16Z",
+  "base_url": "https://raw.githubusercontent.com/joeriben/T5ynth-Presets/main/",
+  "presets": [
+    {
+      "name": "Analog Saw C2C3 badcondition",
+      "path": "Analog Saw C2C3 badcondition.t5p",
+      "size": 3917858,
+      "sha256": "d72af41cd31a16a124a2284b3dc7f65a0bb93b686b9c5d899a1f186ee54a7361"
+    },
+    {
+      "name": "Analog Saw C2C3",
+      "path": "Analog Saw C2C3.t5p",
+      "size": 1094372,
+      "sha256": "c5b864f0288289c10996ade63006c353d3bde3a244acbd77994552229a859538"
+    },
+    {
+      "name": "Analog SawSine C2C3",
+      "path": "Analog SawSine C2C3.t5p",
+      "size": 1094665,
+      "sha256": "5a0f3e655d5dcee50020285124a4e2fddd3322e89e27148b4ef2fd87e211078f"
+    },
+    {
+      "name": "Analog-ish",
+      "path": "Analog-ish.t5p",
+      "size": 214221,
+      "sha256": "14c642f7e7c8d26ff908720ff4d976455a9517bba533c6c5c4f4d85445446650"
+    },
+    {
+      "name": "Clean Saw Wave",
+      "path": "Clean Saw Wave.t5p",
+      "size": 1447443,
+      "sha256": "b018d3c43553bd9fc8ac1a2ff9b9305b6671ba6d664a5ecb702304c5e3d2a004"
+    },
+    {
+      "name": "Creamy-Dreamy",
+      "path": "Creamy-Dreamy.t5p",
+      "size": 1095004,
+      "sha256": "ed633f34da4a3034cb4d8ce4cb2ef68cec6efa57988534eb00784dc42aa0b427"
+    },
+    {
+      "name": "Dirty Squarewave",
+      "path": "Dirty Squarewave.t5p",
+      "size": 2412067,
+      "sha256": "8661b80da6ec3db67476222f66a1b0408728801f8da4f06d688c6fbb5d281577"
+    },
+    {
+      "name": "Emotional Machine",
+      "path": "Emotional Machine.t5p",
+      "size": 2565405,
+      "sha256": "0886bf92b44f584215a88ffd607522c824898ec4ed18e46a32662d6379f0e320"
+    },
+    {
+      "name": "Emotional Poly Machine",
+      "path": "Emotional Poly Machine.t5p",
+      "size": 2152655,
+      "sha256": "4935712ea2b96a2876e6b32accee58b3e812bb5086167b0cc22711c0ea3ee3bc"
+    },
+    {
+      "name": "T5ynth Export",
+      "path": "Evil Beauty.t5p",
+      "size": 1093196,
+      "sha256": "7aa5086055ce56ebd72cf12b893034f3dc405dc3eada69f908e5289193f14d9f"
+    },
+    {
+      "name": "Five Percussive Voices",
+      "path": "Five Percussive Voices 01.t5p",
+      "size": 388508,
+      "sha256": "b8a2934aa4f6ae106f593817ef7405c314c915fffdf6d8b83090171fd7a03f90"
+    },
+    {
+      "name": "Five Percussive Voices 02",
+      "path": "Five Percussive Voices 02.t5p",
+      "size": 2565379,
+      "sha256": "2e08f8537f466715b54779eb507a101b12ff0f4fa9ee119579e3c29c752d2c89"
+    },
+    {
+      "name": "Five Percussive Voices 03",
+      "path": "Five Percussive Voices 03.t5p",
+      "size": 2565331,
+      "sha256": "99aa308b9e623a91b9be4e4485b0fff6164c0fc05a95452db9f9082402f47b09"
+    },
+    {
+      "name": "Five Percussive Voices 04",
+      "path": "Five Percussive Voices 04.t5p",
+      "size": 43041018,
+      "sha256": "d64fcee3439616253a796b42da26a1b6ec44994a99ecb6b55622cbb146895bfd"
+    },
+    {
+      "name": "Funky D&B",
+      "path": "Funky D&B.t5p",
+      "size": 4829594,
+      "sha256": "fe6be192f9ebccc29c466310cb34c7a0f7d1f2516ebbfed79d954e6dec353a40"
+    },
+    {
+      "name": "Funky Gritty",
+      "path": "Funky Gritty.t5p",
+      "size": 3471600,
+      "sha256": "2615e75871d50db5a92cf7cb5445cdf742747705f8df26a83374c0de26a876c9"
+    },
+    {
+      "name": "Funky Zing",
+      "path": "Funky Zing.t5p",
+      "size": 4829522,
+      "sha256": "8424cdbdcaf75ccf44d1683c7f2d5a06e37685cc9ac17beff6cc27e9ccdda83f"
+    },
+    {
+      "name": "Glassy Saw",
+      "path": "Glassy Saw.t5p",
+      "size": 1094658,
+      "sha256": "0e01ec96f014bf7f1439d7eb3351858b5f799b1163197b8bab41e4537b157586"
+    },
+    {
+      "name": "Heaven and Hell WT",
+      "path": "Heaven and Hell WT.t5p",
+      "size": 2082559,
+      "sha256": "2b3d48e464118c7865ad432c15aabd08f47b0fa2dc9e4253d99d449f6f87e9e5"
+    },
+    {
+      "name": "LadderFilterRes",
+      "path": "LadderFilterRes.t5p",
+      "size": 2082443,
+      "sha256": "290172c71159d1ccaa8a8ddfa4b4a09967e4ace22cd14dfeb70a95ba7eacbad0"
+    },
+    {
+      "name": "Minimimicry SA10",
+      "path": "Minimimicry SA10.t5p",
+      "size": 2084044,
+      "sha256": "52f7ad1623ae93f1df2ebaa7579c9b1e72e459c0901fb4b621d3427bbf9b5ced"
+    },
+    {
+      "name": "Samba Getdown",
+      "path": "Samba Getdown.t5p",
+      "size": 3600096,
+      "sha256": "c6e7018656c0514dedbe82072d8941410054cccb48b2df64ce3d9c9c122ee55d"
+    },
+    {
+      "name": "Saw Techno 140bpm linear",
+      "path": "Saw Techno 140bpm linear.t5p",
+      "size": 1687181,
+      "sha256": "8d05fd43077e1ca0a19d31b6c08349473523ef8a24dff251a5ea6e13b7187deb"
+    },
+    {
+      "name": "Saw a Horseback 140bpm 2",
+      "path": "Saw a Horseback 140bpm 2.t5p",
+      "size": 1687720,
+      "sha256": "c95c5e5f4b97abb27ce4bdbc2dd5df117ad02267112544bcf12ec8f367c99cf9"
+    },
+    {
+      "name": "Saw a Horseback 140bpm",
+      "path": "Saw a Horseback 140bpm.t5p",
+      "size": 1687729,
+      "sha256": "e8ce0c61b8cc43ea717082116e7c5f3cc2e061f6c61a9f5e5a49209acf486b85"
+    },
+    {
+      "name": "Silver House 140bpm fine",
+      "path": "Silver House 140bpm fine.t5p",
+      "size": 1687245,
+      "sha256": "a6688550d9eafe57568f658b933c7a7f21e629d2fe9999afd2ad9bb769d7e749"
+    },
+    {
+      "name": "Silver House 140bpm layer",
+      "path": "Silver House 140bpm layer.t5p",
+      "size": 1687245,
+      "sha256": "e9efb3477f747d8a8a4cb47d6ef2862a151d573b1812f787fc5e4a6589d29d47"
+    },
+    {
+      "name": "Talking about aliens 2",
+      "path": "Talking about aliens 2.t5p",
+      "size": 3917204,
+      "sha256": "e2d218b34b08ee566d199d974acadaf155dd8c48eb58ad587b0a83f6443b2854"
+    },
+    {
+      "name": "Talking about aliens",
+      "path": "Talking about aliens.t5p",
+      "size": 3917426,
+      "sha256": "edf96a84e80e8baa312d59d6d3d716ff1e9776bf25958fb831c677388c727dd5"
+    },
+    {
+      "name": "Wild Ducks",
+      "path": "Wild Ducks.t5p",
+      "size": 1094107,
+      "sha256": "ae66d56a3921333a0fa25cdd62d217053e81e24160033c4a4d2eec00f6694efd"
+    },
+    {
+      "name": "evolvement03",
+      "path": "evolvement03.t5p",
+      "size": 3917411,
+      "sha256": "8b402e87d54545a8e4af86ab355b22624be7c5d235b97b4d1805b830926c7354"
+    },
+    {
+      "name": "frenzy dream",
+      "path": "frenzy dream.t5p",
+      "size": 2082472,
+      "sha256": "c899e20685865ccc44ccc7edc326f684dd1fc78677070c123ce6cf60f4082a7c"
+    }
+  ]
+}
