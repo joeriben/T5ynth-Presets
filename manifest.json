@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-25T17:48:36Z",
+  "generated_at": "2026-05-25T18:06:17Z",
   "base_url": "https://raw.githubusercontent.com/joeriben/T5ynth-Presets/main/UCDCAE%20AI%20Lab/",
   "presets": [
     {
@@ -26,6 +26,12 @@
       "path": "Analog-ish.t5p",
       "size": 214221,
       "sha256": "14c642f7e7c8d26ff908720ff4d976455a9517bba533c6c5c4f4d85445446650"
+    },
+    {
+      "name": "Clean Saw Wave WT",
+      "path": "Clean Saw Wave WT.t5p",
+      "size": 1450037,
+      "sha256": "024729892a0295a789d5d8a316cd81897d7dd46550b4a31ffa5ca10a7cc8fd4e"
     },
     {
       "name": "Clean Saw Wave",
@@ -128,6 +134,18 @@
       "path": "Minimimicry SA10.t5p",
       "size": 675657,
       "sha256": "b79a8e28758d66b163935e24bffa2ecf0e8ec513e01d0d549bed0647fb760afc"
+    },
+    {
+      "name": "Samba Getdown Gran",
+      "path": "Samba Getdown Gran.t5p",
+      "size": 60615506,
+      "sha256": "7346d84d54a831d27fa9930d5e665434c5c39fcb74a457c3177fcccd29c93030"
+    },
+    {
+      "name": "Samba Getdown",
+      "path": "Samba Getdown.t5p",
+      "size": 60615504,
+      "sha256": "405195565bc7f36449b16da32828141eb98cbb50460c35c4a2a5eb650febe875"
     },
     {
       "name": "Saw Techno 140bpm linear",
