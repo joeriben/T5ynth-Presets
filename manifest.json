@@ -1,43 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-25T18:06:17Z",
+  "generated_at": "2026-05-26T23:34:20Z",
   "base_url": "https://raw.githubusercontent.com/joeriben/T5ynth-Presets/main/UCDCAE%20AI%20Lab/",
   "presets": [
     {
-      "name": "Analog Saw C2C3 badcondition",
-      "path": "Analog Saw C2C3 badcondition.t5p",
-      "size": 3917858,
-      "sha256": "d72af41cd31a16a124a2284b3dc7f65a0bb93b686b9c5d899a1f186ee54a7361"
-    },
-    {
-      "name": "Analog Saw C2C3",
-      "path": "Analog Saw C2C3.t5p",
-      "size": 1094372,
-      "sha256": "c5b864f0288289c10996ade63006c353d3bde3a244acbd77994552229a859538"
-    },
-    {
-      "name": "Analog SawSine C2C3",
-      "path": "Analog SawSine C2C3.t5p",
-      "size": 1094665,
-      "sha256": "5a0f3e655d5dcee50020285124a4e2fddd3322e89e27148b4ef2fd87e211078f"
-    },
-    {
-      "name": "Analog-ish",
-      "path": "Analog-ish.t5p",
-      "size": 214221,
-      "sha256": "14c642f7e7c8d26ff908720ff4d976455a9517bba533c6c5c4f4d85445446650"
-    },
-    {
       "name": "Clean Saw Wave WT",
       "path": "Clean Saw Wave WT.t5p",
-      "size": 1450037,
-      "sha256": "024729892a0295a789d5d8a316cd81897d7dd46550b4a31ffa5ca10a7cc8fd4e"
-    },
-    {
-      "name": "Clean Saw Wave",
-      "path": "Clean Saw Wave.t5p",
-      "size": 1447443,
-      "sha256": "b018d3c43553bd9fc8ac1a2ff9b9305b6671ba6d664a5ecb702304c5e3d2a004"
+      "size": 916034,
+      "sha256": "679da4f851f7479d9b52b5d0d8b0fcfed9daa9b3973f4f504f15ed6caa180756"
     },
     {
       "name": "Creamy-Dreamy",
@@ -48,8 +18,20 @@
     {
       "name": "Dirty Squarewave",
       "path": "Dirty Squarewave.t5p",
-      "size": 2412067,
-      "sha256": "8661b80da6ec3db67476222f66a1b0408728801f8da4f06d688c6fbb5d281577"
+      "size": 1170153,
+      "sha256": "a7f83443dff1f45b4dc002d3e611c96e428b2080fdd296510588c36196e3d0f6"
+    },
+    {
+      "name": "Echoes of a Laughing Kalimba Gran",
+      "path": "Echoes of a Laughing Kalimba Gran.t5p",
+      "size": 457047,
+      "sha256": "eb3051a6c8ee3ce4ae3af3d20b34b27dbd73942f5c8a43d3abe01e4dfad6de61"
+    },
+    {
+      "name": "Echoes of a Laughing Kalimba",
+      "path": "Echoes of a Laughing Kalimba.t5p",
+      "size": 379383,
+      "sha256": "99685d4dee11b0f0cff9f15912d30fe6afc3af4527a85cda50b4f98a548b8393"
     },
     {
       "name": "Emotional Machine",
@@ -60,8 +42,8 @@
     {
       "name": "Emotional Poly Machine",
       "path": "Emotional Poly Machine.t5p",
-      "size": 829605,
-      "sha256": "307148c438f5a5ab79192c4797ab883e72dd0dc9b7fababba0e135492b3071fa"
+      "size": 827344,
+      "sha256": "37cec6bb1c63f8b143190206126da40cfc4458f143047ef6ce491572b908c3cc"
     },
     {
       "name": "T5ynth Export",
@@ -94,10 +76,16 @@
       "sha256": "06725bb27cab8eef9817111f993a28a5d216775bf551c6afe06ef907e33c21ac"
     },
     {
+      "name": "Five Percussive Voices 05",
+      "path": "Five Percussive Voices 05.t5p",
+      "size": 5900444,
+      "sha256": "ee521cf59f2d2bc9fbbf73d1b7219c0d9df26dea9d3392619e9d735fce71dcda"
+    },
+    {
       "name": "Funky D&B",
       "path": "Funky D&B.t5p",
-      "size": 1369653,
-      "sha256": "5ca2ce5e7936f6b1fc6b44c67dfa4e93a310b5fe382cf2d0e7440caaa0b510fd"
+      "size": 1364117,
+      "sha256": "5bd1a8e983e46b2d16dd932d06b4f88868375be24af95110fa50af2fd462c79c"
     },
     {
       "name": "Funky Gritty",
@@ -112,82 +100,76 @@
       "sha256": "1ebfe05d8816eafd3e84e1eb0312d071c5ae863516d4f6379d316656d090f2b2"
     },
     {
-      "name": "Glassy Saw",
-      "path": "Glassy Saw.t5p",
-      "size": 1092518,
-      "sha256": "af662df0528ff7b71143fe770802212fe7fd8a64cdf5788417ed428552ccc605"
-    },
-    {
       "name": "Heaven and Hell WT",
       "path": "Heaven and Hell WT.t5p",
       "size": 2082559,
       "sha256": "2b3d48e464118c7865ad432c15aabd08f47b0fa2dc9e4253d99d449f6f87e9e5"
     },
     {
-      "name": "LadderFilterRes",
-      "path": "LadderFilterRes.t5p",
-      "size": 2082443,
-      "sha256": "290172c71159d1ccaa8a8ddfa4b4a09967e4ace22cd14dfeb70a95ba7eacbad0"
-    },
-    {
-      "name": "Minimimicry SA10",
-      "path": "Minimimicry SA10.t5p",
-      "size": 675657,
-      "sha256": "b79a8e28758d66b163935e24bffa2ecf0e8ec513e01d0d549bed0647fb760afc"
-    },
-    {
       "name": "Samba Getdown Gran",
       "path": "Samba Getdown Gran.t5p",
-      "size": 60615506,
-      "sha256": "7346d84d54a831d27fa9930d5e665434c5c39fcb74a457c3177fcccd29c93030"
+      "size": 60612965,
+      "sha256": "b0b96006c23973d9d68bdbaa879ad962bc0e9528f9dd0e353d3620d4d8f79820"
     },
     {
       "name": "Samba Getdown",
       "path": "Samba Getdown.t5p",
-      "size": 60615504,
-      "sha256": "405195565bc7f36449b16da32828141eb98cbb50460c35c4a2a5eb650febe875"
+      "size": 60612963,
+      "sha256": "8407148460c0b8dd51011a91f9e2c0f35dd42a1ae757d123a24f2e9329f095c3"
     },
     {
       "name": "Saw Techno 140bpm linear",
       "path": "Saw Techno 140bpm linear.t5p",
-      "size": 3374419,
-      "sha256": "7267f0dc71c544d8fa3d69e83924087e645a9e7be453fb08d68f8ef047aaefdf"
+      "size": 923783,
+      "sha256": "8f0dc2168158139146d66f625512340d96e9cd6fb13dd8c496aba19203112b80"
     },
     {
       "name": "Saw a Horseback 140bpm 2",
       "path": "Saw a Horseback 140bpm 2.t5p",
-      "size": 16684196,
-      "sha256": "e287756326f9c646065e000c341304cf0f4e4c12fa617a0182cdeb92251e2c17"
+      "size": 16681658,
+      "sha256": "b0eefcd5fe3f48c99c3ad88bcbe5a0b34bae09d6567801faadb87f2ff15b57c4"
     },
     {
       "name": "Saw a Horseback 140bpm",
       "path": "Saw a Horseback 140bpm.t5p",
-      "size": 5896964,
-      "sha256": "ccd2ad758d7a10dd6336919e962123d9f62e05ca49b02b9f084afc7825c8e1d8"
+      "size": 5894483,
+      "sha256": "41d8467359e7c242c6543cf9607c35e897fb1b630f034e40880b84c63abb50c3"
     },
     {
       "name": "Silver House 140bpm fine",
       "path": "Silver House 140bpm fine.t5p",
-      "size": 3014872,
-      "sha256": "c1724fbf9adfef80d96b4bb80a5ff63ba74d7baa42bed4a8d3d35f23aa0c0c57"
+      "size": 3012414,
+      "sha256": "a44b928db00559ec2f402f4b114de899bc6f042e8e267a3f8a2465ba20df4e3b"
     },
     {
       "name": "Silver House 140bpm layer",
       "path": "Silver House 140bpm layer.t5p",
-      "size": 2995429,
-      "sha256": "ec9a89e85788d8384fb93eddac4a54afbc1f1e99eba6a865d8ccd970f543345e"
+      "size": 2992971,
+      "sha256": "719e73883a218e9ca94ac7c2e4e8785d282fa60444638b2b3866b817d58efa90"
     },
     {
       "name": "Talking about aliens 2",
       "path": "Talking about aliens 2.t5p",
-      "size": 25479418,
-      "sha256": "74c8b7745808b4fe39de02970bae08f72d25a3a89d97a6b424c580c0c2779ee4"
+      "size": 25477145,
+      "sha256": "ae7ca04d262a5aa6911be9d31ec0142dca58ff58ebc904db032ef56f5be5efe9"
     },
     {
       "name": "Talking about aliens",
       "path": "Talking about aliens.t5p",
-      "size": 24572347,
-      "sha256": "ffbd48bf8cf3a926c0a887a3d0eb68ce8142da8c1bfdf712e31e7a4b61f248ed"
+      "size": 24569816,
+      "sha256": "8ea5b2aa80f3481a6dfbfb5c79eedfd51f0207c9a995ba09a2f595c345304e59"
+    },
+    {
+      "name": "Transistor Saw",
+      "path": "Transistor Saw.t5p",
+      "size": 1646196,
+      "sha256": "2a644630591d34afd191c0455e83b23c5d60d9ee069492742457bdb0ef5016f4"
+    },
+    {
+      "name": "Vintage Worn-Out Saw",
+      "path": "Vintage Worn-Out Saw.t5p",
+      "size": 2261921,
+      "sha256": "a05912bfe4bb97d1a9008a45e94ee48f688e5d9a2e1564f63f545be16e21859c"
     },
     {
       "name": "Wild Ducks",
