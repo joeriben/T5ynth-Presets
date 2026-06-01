@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-26T23:34:20Z",
+  "generated_at": "2026-06-01T11:57:50Z",
   "base_url": "https://raw.githubusercontent.com/joeriben/T5ynth-Presets/main/UCDCAE%20AI%20Lab/",
   "presets": [
     {
       "name": "Clean Saw Wave WT",
       "path": "Clean Saw Wave WT.t5p",
-      "size": 916034,
-      "sha256": "679da4f851f7479d9b52b5d0d8b0fcfed9daa9b3973f4f504f15ed6caa180756"
+      "size": 916037,
+      "sha256": "555d4d4c255ee959c4f791bed2b5a4e7b0dcaf128a7dae550e88d493e81e30c2"
     },
     {
       "name": "Creamy-Dreamy",
@@ -18,20 +18,20 @@
     {
       "name": "Dirty Squarewave",
       "path": "Dirty Squarewave.t5p",
-      "size": 1170153,
-      "sha256": "a7f83443dff1f45b4dc002d3e611c96e428b2080fdd296510588c36196e3d0f6"
+      "size": 1170156,
+      "sha256": "08be3986f943b8d528bfd053794d5864744648ee765de650c3c82e3e9f3e5c6e"
     },
     {
       "name": "Echoes of a Laughing Kalimba Gran",
       "path": "Echoes of a Laughing Kalimba Gran.t5p",
-      "size": 457047,
-      "sha256": "eb3051a6c8ee3ce4ae3af3d20b34b27dbd73942f5c8a43d3abe01e4dfad6de61"
+      "size": 457050,
+      "sha256": "77d69de6f80a7c96419bd3a65650e59c6322f6dfdd57d158178a6c7644d9386d"
     },
     {
       "name": "Echoes of a Laughing Kalimba",
       "path": "Echoes of a Laughing Kalimba.t5p",
-      "size": 379383,
-      "sha256": "99685d4dee11b0f0cff9f15912d30fe6afc3af4527a85cda50b4f98a548b8393"
+      "size": 379386,
+      "sha256": "07fee30a09bb75475321c109d7f40b9ed86001ae7949d96e546dd204af5c19cf"
     },
     {
       "name": "Emotional Machine",
@@ -78,8 +78,8 @@
     {
       "name": "Five Percussive Voices 05",
       "path": "Five Percussive Voices 05.t5p",
-      "size": 5900444,
-      "sha256": "ee521cf59f2d2bc9fbbf73d1b7219c0d9df26dea9d3392619e9d735fce71dcda"
+      "size": 5900447,
+      "sha256": "04ee8a57c78a13ce6ccb69807057a1e2d85d53540a78f89aa058eeb07a14738f"
     },
     {
       "name": "Funky D&B",
@@ -120,8 +120,8 @@
     {
       "name": "Saw Techno 140bpm linear",
       "path": "Saw Techno 140bpm linear.t5p",
-      "size": 923783,
-      "sha256": "8f0dc2168158139146d66f625512340d96e9cd6fb13dd8c496aba19203112b80"
+      "size": 923786,
+      "sha256": "9b6acc09653d5d1fbf014ba46fae98494c9dc2f91a7b4c22e231a69ed07c91bf"
     },
     {
       "name": "Saw a Horseback 140bpm 2",
@@ -162,14 +162,14 @@
     {
       "name": "Transistor Saw",
       "path": "Transistor Saw.t5p",
-      "size": 1646196,
-      "sha256": "2a644630591d34afd191c0455e83b23c5d60d9ee069492742457bdb0ef5016f4"
+      "size": 1646199,
+      "sha256": "657b427cc6e40cbe1fe1ff7fdc0dd5bfa8d89609d0abe9b174d12ceb102291fd"
     },
     {
       "name": "Vintage Worn-Out Saw",
       "path": "Vintage Worn-Out Saw.t5p",
-      "size": 2261921,
-      "sha256": "a05912bfe4bb97d1a9008a45e94ee48f688e5d9a2e1564f63f545be16e21859c"
+      "size": 2261924,
+      "sha256": "61bb54cc7c28812270c72d8af385db3347c7a4b84a5b84fe2255f369eb278140"
     },
     {
       "name": "Wild Ducks",
